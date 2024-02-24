@@ -30,7 +30,7 @@ This repository contains files for a Resume Builder website, designed to help us
 
 1. Clone the repository: `git clone https://github.com/AkhilaSunesh/MeettheDevMe.git`
 2. Open `challenge.html` in your web browser to view the website locally.
-3. eExplore
+3. Explore
 
 ## Bibliography
 
